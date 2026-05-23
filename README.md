@@ -1,8 +1,8 @@
-<div align="center">
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+
+<img align="center" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 <h1 align="center">Holaa, soy Wilfredo</h1>
 
-### Software Developer | .Net | Open Source lover
+<h2 align="center" >Software Developer | .Net | Open Source lover</h2>
 
 
 ## Herramientas
